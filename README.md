@@ -25,7 +25,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/<ник>/linux-admin-toolkit.git
+git clone https://github.com/AlterVoltrix/linux-admin-toolkit.git
 cd linux-admin-toolkit
 chmod +x scripts/*.sh scripts/*.py
 ```
